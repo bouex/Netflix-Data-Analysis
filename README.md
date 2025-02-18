@@ -2,7 +2,7 @@
 🔍 A data-driven exploration of Netflix's content library, analyzing trends in genres, content ratings, country distribution, and more.
 
 1️⃣ Project Overview
-This project explores Netflix's content trends using SQL.
+This project explores Netflix's content trends using SQL. The data consist of contents added to Netflix from 2008 to 2021
 The analysis focuses on genres, movie vs. TV show distribution, country trends, and content growth over time.
 The dataset was sourced from Kaggle, containing details about Netflix's catalog.
 
