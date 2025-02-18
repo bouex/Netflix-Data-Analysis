@@ -1,0 +1,84 @@
+The data consist of contents added to Netflix from 2008 to 2021
+
+1️⃣ Understand the Business Problem – Define the objective of the analysis.
+2️⃣ Collect & Import Data – Gather data from sources (CSV, databases, APIs).
+3️⃣ Explore the Data (EDA - Exploratory Data Analysis) – Check for missing values, duplicates, and basic statistics.
+4️⃣ Clean the Data – Fix errors, handle missing values, standardize formats.
+5️⃣ Transform & Prepare Data – Convert data types, create new calculated fields, filter unnecessary columns.
+6️⃣ Analyze Data Using SQL/Python – Run queries, identify trends, patterns, and key insights.
+7️⃣ Visualize Data – Use Tableau, Power BI, or Python to create charts, graphs, and dashboards.
+8️⃣ Interpret & Draw Conclusions – Explain findings, trends, and anomalies.
+9️⃣ Present Insights & Recommendations – Summarize results in a report, slide deck, or dashboard.
+🔟 Optimize & Automate (If Needed) – Create reports that can be easily refreshed or automated.
+
+Key Questions to Answer
+We'll structure the analysis into two sections:
+
+
+
+🟢 Part 1: Content Strategy Analysis (What Type of Content is Popular?)
+✅ What is the ratio of Movies vs. TV Shows?
+Key Insights:
+Netflix’s library consists of 69.69% Movies and 30.31% TV Shows.
+For every 1 TV Show, there are approximately 2.3 Movies available on the platform.
+This suggests that Netflix prioritizes Movies over TV Shows, possibly due to easier production and licensing compared to multi-season series.
+However, TV Shows might still contribute higher user engagement since they encourage longer viewing time (binge-watching).
+
+✅ What are the most common genres on Netflix?
+Key Insights
+International content dominates Netflix, with International Movies (31%) and International TV Shows (15%) making up nearly half of the platform’s content.
+Dramas (27%) and Comedies (19%) are the most popular genres, showing Netflix’s focus on engaging storytelling.
+Documentaries (9%) and Action & Adventure (9%) also have a significant presence, catering to both information-seeking and thrill-seeking audiences.
+TV Dramas (8%) and Independent Movies (8%) suggest Netflix also supports niche and indie films.
+Family-friendly content (Children & Family Movies – 7%) and Romantic Movies (7%) show Netflix’s effort to appeal to multiple demographics.
+Netflix appears to be heavily invested in international content and dramatic storytelling, while also balancing popular entertainment genres like Action, Comedy, and Romance.
+
+✅ Which countries produce the most content?
+Key Insights
+The United States dominates Netflix content, accounting for 36% of all shows and movies on the platform.
+India (12%) is the second-largest contributor, highlighting the importance of Bollywood and Indian TV for Netflix’s global expansion.
+The United Kingdom (7%) ranks third, reinforcing its strong film and television industry.
+Pakistan (4%) appears in the top 5, which is surprising and suggests increasing investment in South Asian content.
+Canada (3%), Japan (2%), South Korea (2%), France (2%), and Spain (2%) contribute to Netflix’s international catalog.
+
+✅ How has Netflix’s content library changed over time?
+Key Insights
+1️⃣ Netflix started expanding aggressively in 2015, adding 241% more content than in 2014.
+2️⃣ The biggest growth years were 2016 and 2017, with Netflix adding 426 titles in 2016 (419% growth) and 1,185 titles in 2017 (178% growth).
+3️⃣ Netflix’s library peaked in 2019, with 2,016 new shows/movies added that year.
+4️⃣ Content additions slowed in 2020 and 2021, with a 6.8% drop in 2020 and a major 20.28% drop in 2021.
+
+This was likely due to COVID-19 disrupting film production.
+5️⃣ Netflix shifted from rapid expansion (2015-2019) to a more controlled content strategy post-2020.
+📌 Netflix’s content strategy moved from massive expansion (2015-2019) to a more focused, possibly quality-driven approach in 2020 and beyond.
+
+
+
+🔵 Part 2: User Engagement Analysis (What Attracts Viewers?)
+✅ Which ratings (TV-MA, PG-13, TV-Y7) are most common?
+Key Insights
+1️⃣ Netflix primarily targets mature audiences, with TV-MA (36%) and TV-14 (24%) making up 60% of total content.
+TV-MA (Mature Audiences) is the most common rating, meaning Netflix prioritizes adult-themed content.
+TV-14 (Teens 14+) follows closely, suggesting a secondary focus on teenage audiences.
+2️⃣ Family-friendly content makes up a much smaller share, with PG-13 (5%), TV-Y7 (3%), TV-Y (3%), and TV-G (2%) together accounting for less than 15% of total content.
+This suggests Netflix doesn’t invest heavily in children's programming compared to other categories.
+3️⃣ R-rated movies (9%) are less common than TV-MA shows (36%), meaning Netflix leans toward TV content rather than explicit R-rated films.
+4️⃣ Very few titles are G-rated (0%), meaning Netflix is not a strong competitor for very young children's programming (compared to Disney+).
+📌 Overall, Netflix’s content is largely targeted at adults and teenagers, with a lower focus on kids and family-friendly programming.
+
+✅ Is Netflix focusing more on recent releases or older content?
+Netflix’s catalog is heavily focused on recent content, with over 70% of its shows and movies released after 2015.
+This suggests Netflix prioritizes newer releases, either through original productions or acquiring recent content.
+Netflix likely favors fresh content to attract subscribers rather than relying on an extensive classic movie library.
+2️⃣ Only 5.97% of content is from before 2000, meaning Netflix does not prioritize older, classic films & shows.
+Unlike platforms such as HBO Max (Warner Bros. classics) or Disney+ (older animated films), Netflix doesn’t focus on legacy content.
+This could indicate that Netflix's audience prefers newer content over older classics.
+3️⃣ Moderately old content (2000-2014) still makes up 23% of Netflix’s catalog, but it’s much smaller than recent releases.
+Shows and movies from this era include blockbusters and hit TV series (e.g., early 2000s sitcoms and action movies).
+Netflix still licenses some older content, but it's not the primary focus.
+📌 Netflix is clearly focusing on fresh, recently released content rather than building a massive archive of old movies and TV shows.
+
+
+
+
+
