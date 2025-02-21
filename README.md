@@ -32,3 +32,6 @@ Identified top-producing countries for Netflix content
 Analyzed content release trends over time
 Evaluated rating distribution (TV-MA, PG, etc.)
 And more...
+
+📊 Netflix Content Analysis Dashboard  
+[Click here to view the interactive Tableau Dashboard](https://public.tableau.com/app/profile/charbel.boueiri/viz/NetflixTableauDashboard_17401732371560/Dashboard1)
